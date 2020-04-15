@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94366f1-01ca-47e5-b9c5-01ca62b52469" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>afn</find>
+      <find>input</find>
+      <find>sCurrentLine</find>
+      <find>vocabulario</find>
+      <find>plus</find>
+      <find>revisarAutomata</find>
+      <find>SynErr</find>
+      <find>setdecla</find>
+      <find>basicSet</find>
+      <find>keywordDeclaration</find>
+      <find>retrocederLinea</find>
+      <find>tokenDeclaration</find>
+      <find>tokenExpr</find>
+      <find>cadenaRevisar</find>
+      <find>lineaActual</find>
+      <find>avanzarLinea</find>
+      <find>formatRegex</find>
+      <find>charCerrarParentesis</find>
+      <find>CFinalParentensis</find>
+      <find>charOr</find>
+      <find>RegexConverter</find>
+      <find>charAbrirParentesis</find>
+      <find>*</find>
+      <find>∞</find>
+      <find>≤</find>
+      <find>≥</find>
+      <find>∫</find>
+      <find>∩</find>
+      <find>∆</find>
+      <find>WarningIdententificador</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>digito__</replace>
+      <replace>numero__</replace>
+      <replace>mas_menos</replace>
+      <replace>thomson</replace>
+      <replace>pilaNFA</replace>
+      <replace>NFA1</replace>
+      <replace>NFA2</replace>
+      <replace>simulacion_NFA</replace>
+      <replace>nfa</replace>
+      <replace>entrada</replace>
+      <replace>lineaActual</replace>
+      <replace>declaracionDeKeywords</replace>
+      <replace>regresarLinea</replace>
+      <replace>declaracionDeTokens</replace>
+      <replace>expresionToken</replace>
+      <replace>CaRevisar</replace>
+      <replace>linea</replace>
+      <replace>proximaLinea</replace>
+      <replace>formatodeRegex</replace>
+      <replace>CFinalParentensis</replace>
+      <replace>CFinalParentesis</replace>
+      <replace>COr</replace>
+      <replace>Regex</replace>
+      <replace>CInicioParentesis</replace>
+      <replace>.</replace>
+      <replace>*</replace>
+      <replace>(</replace>
+      <replace>)</replace>
+      <replace>|</replace>
+      <replace>+</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z2lrkOUpV5EVtSXPAC6sT9VH0n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="thomson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94366f1-01ca-47e5-b9c5-01ca62b52469" name="Default" comment="" />
+      <created>1501263890955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501263890955</updated>
+      <workItem from="1501263894902" duration="12600000" />
+      <workItem from="1501296765617" duration="506000" />
+      <workItem from="1501546054900" duration="581000" />
+      <workItem from="1501899828530" duration="9759000" />
+      <workItem from="1502592231136" duration="9092000" />
+      <workItem from="1502952626619" duration="125000" />
+      <workItem from="1502954248001" duration="3238000" />
+      <workItem from="1502990259265" duration="1199000" />
+      <workItem from="1503179080657" duration="6348000" />
+      <workItem from="1504145879338" duration="2021000" />
+      <workItem from="1504286219212" duration="1551000" />
+      <workItem from="1504390159721" duration="14194000" />
+      <workItem from="1504916935199" duration="428000" />
+      <workItem from="1504917543093" duration="23122000" />
+      <workItem from="1505452694054" duration="87000" />
+      <workItem from="1505802323076" duration="531000" />
+      <workItem from="1505803542255" duration="229000" />
+      <workItem from="1584045272264" duration="222000" />
+      <workItem from="1585006880830" duration="740000" />
+      <workItem from="1586817344665" duration="108000" />
+      <workItem from="1586817713130" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584045277831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584045277831" />
+    <state width="1877" height="395" key="GridCell.Tab.0.bottom" timestamp="1586817451882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586817451882" />
+    <state width="1877" height="395" key="GridCell.Tab.0.center" timestamp="1586817451882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="395" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586817451882" />
+    <state width="1877" height="395" key="GridCell.Tab.0.left" timestamp="1586817451882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="395" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586817451882" />
+    <state width="1877" height="395" key="GridCell.Tab.0.right" timestamp="1586817451882">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="395" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586817451882" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1587417033722">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587417033722" />
+  </component>
+</project>

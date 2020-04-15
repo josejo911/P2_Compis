@@ -1,0 +1,12 @@
+-------nfa---------
+EL ALFABETO DE LA EXPRESION INGRESADA ES: [a, b]
+EL ESTADO INICIAL DEL AUTOMATA ES: 0
+LOS ESTADOS DE ACEPTACION DEL AUTOMATA SON: [13]
+CONJUNTO DE ESTADOS: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+CONJUNTO DE TRANSICIONES: [(0-ε-1), (0-ε-7)]-[(1-ε-4), (1-ε-2)]-[(2-b-3)]-[(3-ε-6)]-[(4-a-5)]-[(5-ε-6)]-[(6-ε-1), (6-ε-7)]-[(7-ε-8)]-[(8-a-9)]-[(9-ε-10)]-[(10-b-11)]-[(11-ε-12)]-[(12-b-13)]-[]-
+LENGUAJE r: b b a b a
+LA CADENA w INGRESADA: abbc
+RESULTADO: null
+
+El Tiempo Creación: 979824.0 ns
+El Tiempo de Simulacion: 147257.0 ns

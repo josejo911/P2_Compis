@@ -1,0 +1,12 @@
+-------DFA---------
+EL ALFABETO DE LA EXPRESION INGRESADA ES: [a, b]
+EL ESTADO INICIAL DEL AUTOMATA ES: 0
+LOS ESTADOS DE ACEPTACION DEL AUTOMATA SON: [4]
+CONJUNTO DE ESTADOS: [0, 1, 2, 3, 4]
+CONJUNTO DE TRANSICIONES: [(0-a-1), (0-b-2)]-[(1-a-1), (1-b-3)]-[(2-a-1), (2-b-2)]-[(3-a-1), (3-b-4)]-[(4-a-1), (4-b-2)]-
+LENGUAJE r: null
+LA CADENA w INGRESADA: abbc
+RESULTADO: null
+
+El Tiempo Creación: 458006.0 ns
+El Tiempo de Simulacion: 23410.0 ns
